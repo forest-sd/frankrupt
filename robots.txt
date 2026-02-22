@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://frankrupt.pages.dev/sitemap.xml
+Sitemap: https://www.frankrupt.com/sitemap.xml
